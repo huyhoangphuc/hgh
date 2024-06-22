@@ -1,9 +1,5 @@
-wait(120)
-if  game.ReplicatedStorage.GameData.LatestRoom.Value ~= 50 then
-game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
-else
-Wait(0)
-end
+game.ReplicatedStorage.Sounds.BulbZap.SoundId = "rbxassetid://4398878054"
+
 local Spawner = loadstring(game:HttpGet('https://raw.githubusercontent.com/MuhXd/DoorSuff/main/OtherSuff/DoorEntitySpawn%2BSource'))()
 
 
@@ -13,7 +9,7 @@ local entity = Spawner.createEntity({
     CustomName = "Clock", -- Custom name of your entity
     Model = "rbxassetid://14700391347", -- Can be GitHub file or rbxassetid
     Speed = 100000, -- Percentage, 100 = default Rush speed
-    DelayTime = 66, -- Time before starting cycles (seconds)
+    DelayTime = 80, -- Time before starting cycles (seconds)
     HeightOffset = 0.5,
     CanKill = false,
     NoDieOnCrouching = false,
@@ -102,10 +98,37 @@ print("Hiding: "..tostring(Hiding))
 end
        
 entity.Debug.OnEntitySpawned = function()
+wait(10)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/huyhoangphuc/hgh/main/gcvg"))()
 end
 
 entity.Debug.OnEntityDespawned = function()
+end
+
+entity.Debug.OnEntityStartMoving = function()
+    print("Entity has started moving:")
+end
+
+entity.Debug.OnEntityFinishedRebound = function()
+    print("Entity has finished rebound:")
+end
+
+entity.Debug.OnEntityEnteredRoom = function(entityTable, room)
+    print("Entity:", "has entered room:",room)
+end
+
+entity.Debug.OnLookAtEntity = function()
+    print("Player has looked at entity:")
+end
+
+entity.Debug.OnDeath = function()
+    warn("Player has died.")
+end
+
+------------------------
+
+-- Run the created entity
+Spawner.runEntity(entity)entity.Debug.OnEntityDespawned = function()
 end
 
 entity.Debug.OnEntityStartMoving = function()
