@@ -34,8 +34,8 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/huyho
 local entity = Spawner.createEntity({
     CustomName = "Dread",
     Model = "rbxassetid://12409937936", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
-    Speed = 100,
-    MoveDelay = 1,
+    Speed = 200,
+    MoveDelay = 5,
     HeightOffset = 0,
     CanKill = true,
     KillRange = 100,
@@ -46,8 +46,8 @@ local entity = Spawner.createEntity({
         Duration = 50
     },
     Cycles = {
-        Min = 2,
-        Max = 2,
+        Min = 1,
+        Max = 1,
         Delay = 0
     },
     CamShake = {
@@ -64,6 +64,15 @@ local entity = Spawner.createEntity({
 ---====== Debug ======---
 
 entity.Debug.OnEntitySpawned = function()
+    local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))()
+
+---====== Display achievement ======---
+achievementGiver({
+    Title = "Death Of Night",
+    Desc = "The time has come.",
+    Reason = "Encounter Dread.",
+    Image = "rbxassetid://error"
+})
 end
 
 entity.Debug.OnEntityDespawned = function()
