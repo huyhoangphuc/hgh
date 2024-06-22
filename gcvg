@@ -1,6 +1,3 @@
-game.ReplicatedStorage.Sounds.BulbZap.SoundId = "rbxassetid://5837227586"
-
-
 local function GetGitSound(GithubSnd,SoundName)
 				local url=GithubSnd
 				if not isfile(SoundName..".mp3") then
