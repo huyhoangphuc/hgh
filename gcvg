@@ -1,10 +1,6 @@
 game.ReplicatedStorage.Sounds.BulbZap.SoundId = "rbxassetid://5837227586"
 
 
-local syncConnection; syncConnection = game:GetService("ReplicatedStorage").GameData.LatestRoom:GetPropertyChangedSignal("Value"):Wait()
-
-
-
 local function GetGitSound(GithubSnd,SoundName)
 				local url=GithubSnd
 				if not isfile(SoundName..".mp3") then
@@ -25,7 +21,7 @@ local function GetGitSound(GithubSnd,SoundName)
 				Clock.Parent = workspace
 				Clock.Volume = 5
 				Clock:Play()
-				wait(13)
+				wait(25)
 				        local Bell = GetGitSound("https://github.com/Potato032/Entt/blob/main/ClockSoundsCreditsToVynixus.mp3?raw=true","Credit")
 				Bell.Parent = workspace
 				Bell.Volume = 5
