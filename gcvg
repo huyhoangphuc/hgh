@@ -67,15 +67,6 @@ entity.Debug.OnEntitySpawned = function()
 end
 
 entity.Debug.OnEntityDespawned = function()
-    local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))()
-
----====== Display achievement ======---
-achievementGiver({
-    Title = "Death Of Night",
-    Desc = "The time has come.",
-    Reason = "Encounter Dread.",
-    Image = "rbxassetid://error"
-})
 end
 
 entity.Debug.OnEntityStartMoving = function()
