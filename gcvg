@@ -21,7 +21,7 @@ local function GetGitSound(GithubSnd,SoundName)
 				Clock.Parent = workspace
 				Clock.Volume = 5
 				Clock:Play()
-				wait(25)
+				wait(37)
 				        local Bell = GetGitSound("https://github.com/Potato032/Entt/blob/main/ClockSoundsCreditsToVynixus.mp3?raw=true","Credit")
 				Bell.Parent = workspace
 				Bell.Volume = 5
