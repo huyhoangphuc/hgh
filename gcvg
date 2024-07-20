@@ -35,7 +35,7 @@ local Spawner = loadstring(game:HttpGet('https://raw.githubusercontent.com/MuhXd
 local entity = Spawner.createEntity({
     CustomName = "Dread", -- Custom name of your entity
     Model = "rbxassetid://16834807322", -- Can be GitHub file or rbxassetid
-    Speed = 0, -- Percentage, 100 = default Rush speed
+    Speed = 50, -- Percentage, 100 = default Rush speed
     DelayTime = 5, -- Time before starting cycles (seconds)
     HeightOffset = 1,
     CanKill = false,
