@@ -14,16 +14,18 @@ local function GetGitSound(GithubSnd,SoundName)
 	local TweenService = game:GetService("TweenService")
 	local TW = TweenService:Create(game.Lighting.MainColorCorrection, TweenInfo.new(80),{TintColor = Color3.fromRGB(255, 255, 255)})
 	TW:Play()
-        local Clock = GetGitSound("https://github.com/Brololto/bing-/blob/main/Screen_Recording_20230419-164136_Chrome%20(online-audio-converter.com).mp3?raw=true","Anotherlove")
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hgh/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3?raw=true","Anotherlove")
 				Clock.Parent = workspace
-				Clock.Volume = 5
+				Clock.Volume = 1
 				Clock:Play()
-				wait(37)
-				        local Bell = GetGitSound("https://github.com/Potato032/Entt/blob/main/ClockSoundsCreditsToVynixus.mp3?raw=true","Credit")
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hgh/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3","Credit")
 				Bell.Parent = workspace
-				Bell.Volume = 5
-				Bell:Play()
-wait(29)
+				Bell.Volume = 6
+				Bell:Play()				
+wait(15)
+require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("Hide",true)
+wait()
 local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/huyhoangphuc/a120doors/main/jghgifgy"))()
 
 ---====== Create entity ======---
@@ -31,9 +33,9 @@ local Spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/huyho
 local entity = Spawner.createEntity({
     CustomName = "Dread",
     Model = "rbxassetid://12409937936", -- Your entity's model url here ("rbxassetid://1234567890" or GitHub raw url)
-    Speed = 100,
-    MoveDelay = 6,
-    HeightOffset = 0,
+    Speed = 400,
+    MoveDelay = 2,
+    HeightOffset = 1,
     CanKill = true,
     KillRange = 100,
     SpawnInFront = false,
@@ -43,13 +45,13 @@ local entity = Spawner.createEntity({
         Duration = 50
     },
     Cycles = {
-        Min = 1,
-        Max = 1,
-        Delay = 0
+        Min = 3,
+        Max = 5,
+        Delay = 2
     },
     CamShake = {
         Enabled = true,
-        Values = {5.5, 20, 0.1, 1},
+        Values = {20.5, 20, 0.1, 1},
         Range = 100
     },
     ResistCrucifix = true,
@@ -70,9 +72,9 @@ wait(2)
 
 ---====== Display achievement ======---
 achievementGiver({
-    Title = "Death Of Night",
-    Desc = "The time has come.",
-    Reason = "Encounter Dread.",
+    Title = "Death Or Win",
+    Desc = "The Come Here Dread",
+    Reason = "Survival Dread",
     Image = "rbxassetid://error"
 })
 end
