@@ -19,7 +19,7 @@ local function GetGitSound(GithubSnd,SoundName)
 				Clock.Volume = 1
 				Clock:Play()
 				wait(0)
-				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hgh/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3","Credit")
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hgh/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3?raw=true","Credit")
 				Bell.Parent = workspace
 				Bell.Volume = 6
 				Bell:Play()				
