@@ -14,12 +14,12 @@ local function GetGitSound(GithubSnd,SoundName)
 	local TweenService = game:GetService("TweenService")
 	local TW = TweenService:Create(game.Lighting.MainColorCorrection, TweenInfo.new(80),{TintColor = Color3.fromRGB(255, 255, 255)})
 	TW:Play()
-        local Clock = GetGitSound("https://github.com/huyhoangphuc/hgh/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3?raw=true","prgi")
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/ytu/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3","Prigg")
 				Clock.Parent = workspace
 				Clock.Volume = 1
 				Clock:Play()
 				wait(0)
-				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hgh/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3?raw=true","prgi")
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/ytu/blob/main/Stranger%20Things%20Clock%20Chimes%204%20TIMES%20(1).mp3","Prigg")
 				Bell.Parent = workspace
 				Bell.Volume = 6
 				Bell:Play()				
