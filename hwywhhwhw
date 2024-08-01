@@ -1,0 +1,2926 @@
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()	
+				wait(61)
+local function GetGitSound(GithubSnd,SoundName)
+				local url=GithubSnd
+				if not isfile(SoundName..".mp3") then
+					writefile(SoundName..".mp3", game:HttpGet(url))
+				end
+				local sound=Instance.new("Sound")
+				sound.SoundId=(getcustomasset or getsynasset)(SoundName..".mp3")
+				return sound
+			end
+        local Clock = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Clock.Parent = workspace
+				Clock.Volume = 1
+				Clock:Play()
+				wait(0)
+				        local Bell = GetGitSound("https://github.com/huyhoangphuc/hghg/blob/main/km_20240801_720p_12f_20240801_223709.mp3?raw=true","dewis")
+				Bell.Parent = workspace
+				Bell.Volume = 1
+				Bell:Play()
+	
